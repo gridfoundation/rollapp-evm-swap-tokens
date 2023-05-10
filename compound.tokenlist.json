@@ -1,0 +1,40 @@
+{
+  "name": "Compound",
+  "logoURI": "https://raw.githubusercontent.com/gridfoundation/rollapp-evm-swap-tokens/main/assets/compound-interface.svg",
+  "keywords": [
+    "compound",
+    "defi"
+  ],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 600,
+      "address": "0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd",
+      "name": "Gridiron Token",
+      "symbol": "FURY",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/gridfoundation/rollapp-evm-swap-tokens/main/assets/gridiron-logo.png"
+    },
+    {
+      "chainId": 600,
+      "address": "0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75",
+      "name": "Rollapp X Token",
+      "symbol": "RAX",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/gridfoundation/rollapp-evm-swap-tokens/main/assets/rollappx-logo.png"
+    },
+    {
+      "chainId": 600,
+      "address": "0x6B70D97E7f2fE7bae7E1C3E561880d0fc7b7193e",
+      "name": "Wrapped tEVMOS",
+      "symbol": "wtEVMOS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gridfoundation/rollapp-evm-swap-tokens/main/assets/evmos-logo.svg"
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
